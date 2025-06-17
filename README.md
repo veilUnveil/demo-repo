@@ -6,5 +6,3 @@ Some description!
 
 Watch tutorial on YouTube!
 Watch tutorial on YouTube!
-
-## Local development
